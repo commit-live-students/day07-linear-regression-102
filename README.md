@@ -26,7 +26,11 @@
 
 ## Notebooks
 
+[Code Demonstration](https://github.com/commit-live-students/day07-linear-regression-102/blob/master/notebooks/day07_demo.ipynb)
+
 ## Assignments
+
+[Linear Regression sklearn](https://github.com/commit-live-students/linear-regression-assignment)
 
 ## Post Reads
 
